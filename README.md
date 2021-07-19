@@ -1,6 +1,7 @@
 # Telecoms Customer Churn Prediction
  Churn Prediction
 Project
+
 In this project, the aim is to build a model for predicting churn. Churn is the percentage of customers that stopped using your company's product or service during a certain time frame. Thus, in the given dataset, the label or target variable will be Churn column.
 
 Steps
